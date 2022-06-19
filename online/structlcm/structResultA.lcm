@@ -1,0 +1,7 @@
+package exlcm;
+
+struct ResultA
+{
+	int64_t timestamp;
+	double ans;
+}

@@ -1,0 +1,7 @@
+package exlcm;
+
+struct Transaction
+{
+	int64_t timestamp;
+	int32_t id;
+}
